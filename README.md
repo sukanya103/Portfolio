@@ -2,10 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://sukanya-portfolio-git-master-sukanyas-projects-6ea6aadd.vercel.app/" target="_blank">sukanya</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
 <br/>
 
 <center>
